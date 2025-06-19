@@ -1,0 +1,14 @@
+{
+  "name": "1win-token-bot",
+  "version": "1.0.0",
+  "description": "Automated bot for Clicker account tapping",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2"
+  },
+  "author": "https://t.me/sentineldiscus",
+  "license": "ISC"
+}

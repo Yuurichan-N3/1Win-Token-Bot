@@ -1,6 +1,6 @@
 # 1Win-Token-Bot
 
-*Script*
+*Full Script*
 ```
 https://t.me/+i4LDDcvAnHExNDhl
 ```
